@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+  background: #ffffff;
+  color: #000000;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #000000;
+    color: #ffffff;
+}
+}
