@@ -96,6 +96,13 @@ export default function HomePage() {
         I see immense potential in standing at the intersection of tech and
         finance.
       </p>
+
+      <p className="text-sm">
+        <a href="/blog" className="underline">
+          blog
+        </a>
+      </p>
     </div>
   );
 }
+
