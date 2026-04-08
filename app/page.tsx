@@ -21,8 +21,20 @@ export default function HomePage() {
               >
                 Nodal-Research
               </a>{" "}
+            </li>
+            <li>
+              Co-Founder –{" "}
+              <a
+                href="https://www.marbleinvestments.ca/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="underline"
+              >
+                Marble-Investments
+              </a>{" "}
               (1.2M AUM)
             </li>
+            <li>Grew my personal portfolio to 1 Million over 8 years</li>
           </ul>
         </div>
 
@@ -74,35 +86,17 @@ export default function HomePage() {
           </ul>
         </div>
 
-        <div>
-          <h2 className="text-base mb-1 font-bold">Projects</h2>
-          <ul className="space-y-1">
-            <li>
-              <a
-                href="https://www.marbleinvestments.ca/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="underline"
-              >
-                Marble-Investments
-              </a>{" "}
-              (Ended with 1.2 AUM after averaging 70% returns for 3 years)
-            </li>
-          </ul>
-        </div>
+        <p className="text-sm italic mt-12">
+          I see immense potential in standing at the intersection of tech and
+          finance.
+        </p>
+
+        <p className="text-sm">
+          <a href="/blog" className="underline">
+            blog
+          </a>
+        </p>
       </div>
-
-      <p className="text-sm italic mt-12">
-        I see immense potential in standing at the intersection of tech and
-        finance.
-      </p>
-
-      <p className="text-sm">
-        <a href="/blog" className="underline">
-          blog
-        </a>
-      </p>
     </div>
   );
 }
-

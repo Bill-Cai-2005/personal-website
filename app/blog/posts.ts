@@ -85,7 +85,7 @@ export const BLOG_POSTS: BlogPost[] = [
       "Being a SWE also has other advantages. For one, it's a great fallback if this bet fails. But the main benefit is really the ability to be places tech people are and understand how they're feeling.",
       "I've been able to network in Waterloo, Toronto, China, and soon SF all because I'm in tech.",
       "I don't know if this is a fair statement, but I also feel like it's easier to be respected by tech people when you're also in tech.",
-      "My end objective is to be known by tech people as the finance person. The person they have in their mind as someone worth having a chat about years down the line.",
+      "My end objective is to be known by tech people as the finance person. The person they have in their mind as someone worth having a chat with years down the line.",
       "Being in finance also has immense value in my opinion. Finance is a different art from CS and there isn't much overlap. Most tech people don't get finance and most finance people don't get tech.",
       "Yet it's such an integral part of any young ambitious person's life and there are talented people on both sides that never get a chance to meet.",
       "Eventually the goal is to build a strong enough network that when I do have a desire to start a family office or something similar I'll have ample connections on both sides.",
