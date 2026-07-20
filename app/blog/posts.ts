@@ -8,6 +8,23 @@ export type BlogPost = {
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: "nostalgia",
+    title: "Nostalgia",
+    date: "2026-07-20",
+    summary: "Whenever I feel the pangs of Nostalgia I wonder if it is a gift or a curse.",
+    content: [
+      "Whenever I feel the pangs of Nostalgia I wonder if it is a gift or a curse.  \nSuch a strong emotion yet leading to nowhere.  \nTelling me to search for a feeling I can never find.",
+      "I find myself drifting into these warmer times, wondering why everything feels colder now.  \nAnd I wonder if I accidently left my warmth behind or if it has purposefully left me behind.",
+      "But as I traverse this older world in search of the warmth I once felt,  \nI begin to realize something all humans eventually do.",
+      "The warmth we felt, the innocence and carefreeness, was not a symptom of a kinder world.  \nIt is not something we left behind or something the world took from us.",
+      "We simply existed in a temporary haven of warmth forged for us by the ones who loved us.  \nShielding us from the cold, they faced the cold.",
+      "And they did this so we would know what warmth feels like.  \nBecause too many in this world only know cold.",
+      "But humans are fleeting creatures, and love cannot shield us forever.  \nAnd thus, they hope, having felt warmth once, we will know how to love as well.",
+      "So whenever I feel my heartstrings tugged,  \nTrying to pull me back into carefree summer days and cozy winter nights,  \nFeeling both joy and despair,  \nKnowing I can never go back.  \nConfused at what my heart is trying to tell me.,  \nWhether I should laugh or smile or cry,  \nWhether I should search harder or if I should look back with a sigh.",
+      "I finally realize what my heart is trying to say.  \nThat warmth you felt, is now yours to give.  \nIt is time to face the cold with dignity, not sadness,  \nKnowing that it is our turn to give the gift of Nostalgia.",
+    ],
+  },
+  {
     slug: "im-betting-my-life-on-this",
     title: "I'm betting my life on this",
     date: "2026-01-28",

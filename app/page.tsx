@@ -11,6 +11,17 @@ export default function HomePage() {
       <div className="space-y-4 text-sm">
         <div>
           <ul className="space-y-1">
+          <li>
+              Founder –{" "}
+              <a
+                href="https://www.nodalresearch.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="underline"
+              >
+                Antidisplacement
+              </a>{" "}
+            </li>
             <li>
               Founder –{" "}
               <a
@@ -32,14 +43,14 @@ export default function HomePage() {
               >
                 Marble-Investments
               </a>{" "}
-              (1.2M AUM)
+              (2M AUM)
             </li>
-            <li>Grew my personal portfolio to 1 Million over 8 years</li>
+            <li>Grew my personal portfolio to 2 Million over 8 years</li>
           </ul>
         </div>
 
         <div>
-          <h2 className="text-base mb-1 font-bold">Incoming S26</h2>
+          <h2 className="text-base mb-1 font-bold">Currently</h2>
           <ul className="space-y-1">
             <li>
               Software Engineer Finance Intern –{" "}
